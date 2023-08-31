@@ -1,4 +1,3 @@
-"""
 print("Question 1")
 name = input('Enter your name: ')
 print(f'Hello, {name}!')
@@ -16,7 +15,7 @@ width = float(input('Enter the width: '))
 perimeter = 2 * (length + width)
 area_of_rectangle = length * width
 print(f'Perimeter: {perimeter} & Area: {area_of_rectangle}')
-"""
+
 print('Question 4')
 num_1 = int(input('Enter integer 01: '))
 num_2 = int(input('Enter integer 02: '))
