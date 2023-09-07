@@ -70,6 +70,7 @@ while count < 5:
 else:
     print('Access denied!')
 """
+print('Question 6')
 import random
 N = int(input('Enter a random points which you want to create: '))
 count = 0
